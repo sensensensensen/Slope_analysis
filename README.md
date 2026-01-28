@@ -1,1 +1,1 @@
-This is used to view CLOUD processed data (especially mass spectra) and perform slope analysis
+This is used to view CLOUD processed data (especially mass spectra) and perform slope analysis, based on python.
