@@ -7,9 +7,6 @@ A comprehensive Python-based graphical user interface (GUI) designed for loading
 
 Built with **PyQt5**, **pandas**, and **matplotlib**.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Application+Screenshot+Here)
-*(Place a screenshot of your application here)*
-
 ## 🚀 Features
 
 ### 1. Robust Data Loading
